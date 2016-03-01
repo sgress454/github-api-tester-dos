@@ -1,16 +1,21 @@
 <!--
-================================================
+======================================================
+HELLO, and welcome to the (experimental) Sailsbot
+issue-submission system.  If you encounter any
+problems with this system, please contact
+sgress454@treeline.io
+
 FIRST THINGS FIRST: please fill out the following info 
 (Don't change text between **) 
-================================================
+======================================================
 -->
 
 **Sails version**:
 **Node version**:
 **NPM version**:
 **Operating system**:
-<hr/>
 
+<hr/>
 <!-- 
 ================================================
 IMPORTANT - Read Carefully (Sailsbot will know if you don't)!  
@@ -25,8 +30,6 @@ Before you submit an issue for Sails, please make sure you have read the issue c
 
 - [ ] I have already searched for related issues, and found none open (if you found a related _closed_ issue, please link to it in your post).
 
-- [ ] I am reporting _one_ issue in my post (multiple unrelated issues should be reported in multiple posts).
-
 - [ ] My issue title is concise, on-topic and polite ("jst.js being removed from layout.ejs on lift" is good; "templates dont work" or "why is sails dumb" are not so good).
 
 - [ ] I have tried all the following (if relevant) and my issue remains:
@@ -37,9 +40,7 @@ Before you submit an issue for Sails, please make sure you have read the issue c
   - Make sure the app you are using to reproduce the issue has a clean node_modules/ directory, meaning:
     * no dependencies are linked (e.g. you haven't run npm link foo)
     * that you haven't made any inline changes to files in the node_modules/ folder
-    * that you don't have any weird global dependency loops The easiest way to double-check any of the above, if you aren't sure, is to run: rm -rf node_modules && npm cache clear && npm install.
-
-- [ ] If using the _master_ (development) branch of Sails, I have verified that my issue also exists with the most recent published Sails version (we welcome bug reports against code under development, we just ask that you also verify that this is a _new_ issue versus something that also exists in the published version of Sails).
+    * that you don't have any weird global dependency loops. The easiest way to double-check any of the above, if you aren't sure, is to run: rm -rf node_modules && npm cache clear && npm install.
 
 and finally...
 - [ ] **I can provide steps to reproduce this issue that others can follow.**
