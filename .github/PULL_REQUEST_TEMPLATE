@@ -1,7 +1,12 @@
 <!-- 
-================================================
+======================================================
+HELLO, and welcome to the (experimental) Sailsbot
+pr-submission system.  If you encounter any
+problems with this system, please contact
+sgress454@treeline.io
+
 IMPORTANT - Read Carefully (Sailsbot will know if you don't)!  
-================================================
+======================================================
 
 Before submitting a pull request for a new feature request, pretty-please read the Sails contribution guide section on proposing features and enhancements: http://bit.ly/sails-feature-guide.
 Before submitting a pull request with code, please read the section on contributing code: http://bit.ly/sails-code-guide.
