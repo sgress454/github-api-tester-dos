@@ -17,9 +17,10 @@ FIRST THINGS FIRST: please fill out the following info
 
 <hr/>
 <!-- 
-================================================
-IMPORTANT - Read Carefully (Sailsbot will know if you don't)!  
-================================================
+======================================================
+GREAT! - Now read carefully 
+(Sailsbot will know if you don't)!  
+======================================================
 
 Before you submit an issue for Sails, please make sure you have read the issue contribution guide (http://bit.ly/sails-issue-guide) carefully, and then verify the following by typing an X in between each set of [ ] brackets below (don't make any other changes to the text!):
 
